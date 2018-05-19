@@ -1,0 +1,62 @@
+/*html,body, h1, p, ul,div, section{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+
+}*/
+
+body{
+	background-color: #000030;
+	font-family: Roboto;
+}
+
+h1, h2,p{
+	text-align: center;
+}
+h1{
+	font-family: sans-serif;
+	color: #F0E68C;
+	
+}
+
+h2{
+	font-family: sans-serif;
+	color: #F0E68C;
+
+}
+div> p{
+	color: white;
+}
+
+div>ul>li>span{
+	color: #800000;
+	font-weight: bold;
+}
+
+.who span{
+	color:#CC3300;
+	font-weight:600;
+	
+}
+ul{
+	margin-left: 35em;
+	color: white;
+}
+.moodImage p image{
+	/*vertical-align: center;*/
+	width: 40em;
+	height: 30em;
+}
+.who{
+	border-bottom: 1px solid white;
+}
+
+.courses{
+	border-bottom: 1px solid white;
+}
+
+.favoriteMovies{
+	border-bottom: 1px solid white;
+}
+
